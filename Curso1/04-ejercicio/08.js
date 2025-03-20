@@ -27,6 +27,7 @@ function toPairs(arr){
         pairs[idx] = [elemento.id, elemento];
     }
     return pairs;
+    
 }
 
 let resultado  = toPairs(array);
