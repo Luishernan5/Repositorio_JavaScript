@@ -3,7 +3,7 @@
  * menor y mayor de un array.
  */
 
-let array = [2, 5, 7, 15, -5, -100, 55];
+let array = [2, 5, 7, 15, -5, -100, 55, 100, 56];
 function getMenorMayor(arr){
     let menor = arr[0];
     let mayor = arr[0];
