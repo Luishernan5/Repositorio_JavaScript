@@ -9,12 +9,12 @@ let b = 7;
 //console.log(a ** b, 'potencia'); // potencia
 //
 
-// incrementar:
+// incrementar :
 console.log(++a);
 console.log(a++)
 console.log(a)
 
-// decrementar:
+// decrementar :
 console.log(--a);
 console.log(a--)
 console.log(a)
