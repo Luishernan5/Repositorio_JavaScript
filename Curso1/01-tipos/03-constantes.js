@@ -4,6 +4,6 @@ let nombre = "Hola Mundo";
 nombre = "Luis";
 
 const nombrel = "Hola";
-nombrel = "Hernan";
+nombrel = "Hernán";
 
 console.log(nombre);
