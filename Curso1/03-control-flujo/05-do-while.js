@@ -1,6 +1,6 @@
 let i = 2;
 
-/*en while se evalua primero la condicion, si la 
+/*En while se evalua primero la condicion, si la 
 condicion se cumple se ejecuta el codigo.*/
 while (i < 3){ 
     if (i % 2 == 0){
